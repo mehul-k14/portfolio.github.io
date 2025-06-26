@@ -492,10 +492,6 @@ input:-webkit-autofill {
     width: 60%;
 }
 
-.skills__react{
-    width: 60%;
-}
-
 .skills__c{
     width: 80%;
 }
@@ -512,16 +508,22 @@ input:-webkit-autofill {
     width: 60%;
 }
 
-.skills__sql{
-    width: 70%;
-}
-
-.skills__oracle{
-    width: 60%;
-}
-
 .skills__BM{
     width: 60%;
+}
+
+.skills__oops{
+   width: 80%;
+}
+
+.skills__multithreading{
+    width: 60%;
+}
+.skills__ipc{
+    width: 70%;
+}
+.skills__ZeroMQ{
+width:70%;
 }
 
 .skills__close .skills__list{
